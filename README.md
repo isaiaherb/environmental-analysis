@@ -4,4 +4,4 @@
 ## Global Forest Outlook (2020)
 ![Graph2](https://github.com/isaiaherb/global-sustainability-montioring/blob/main/images/Screenshot%202024-07-01%20230629.png?raw=true)
 ## Agricultural Land (2013)
-![Graph3]()
+![Graph3](https://github.com/isaiaherb/global-sustainability-montioring/blob/main/images/Screenshot%202024-07-01%20230651.png?raw=true)
